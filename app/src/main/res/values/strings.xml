@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+    <string name="add_two_numbers">Add Two Numbers</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="add_number">Add Number</string>
+    <string name="result">Result: %$s</string>
+</resources>
